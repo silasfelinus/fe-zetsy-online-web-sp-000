@@ -36,8 +36,7 @@ p {
     color: grey;
 }
 #press {
-
-  display: inline-block;
+  display: inline-flex;
 }
 #press a {
     border: 1px solid grey;
