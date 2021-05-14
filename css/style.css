@@ -39,6 +39,10 @@ p {
   border: 1px solid grey;
   display: inline-block;
 }
+.press:hover {
+  border: 2px solid grey;
+  display: inline-block;
+}
 #feature {
   border: 2px solid grey;
   display: inline-flex;
