@@ -39,7 +39,7 @@ p {
   display: inline-block;
 }
 #feature {
-  border: 1px solid grey;
+  border: 10px solid grey;
 }
 footer {
   font-size: 80%;
