@@ -35,7 +35,7 @@ p {
   	margin: 0 0 20px 0;
     color: grey;
 }
-.press {
+.press a {
   border: 1px solid grey;
   display: inline-block;
 }
