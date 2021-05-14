@@ -34,7 +34,7 @@ p {
   	margin: 0 0 20px 0;
 }
 .press {
-  border: 1px solid grey;
+  border: 1px solid #ccc;
 }
 footer {
   font-size: 80%;
