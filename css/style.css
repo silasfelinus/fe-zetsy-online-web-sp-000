@@ -43,7 +43,7 @@ p {
   border: 5px #ccc solid;
 padding: 1px;
 }
-#press a:hover {
+#press img:hover {
   border: 2px solid grey;
   display: inline-block;
 }
