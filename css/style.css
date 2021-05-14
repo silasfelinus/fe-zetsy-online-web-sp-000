@@ -37,6 +37,7 @@ p {
 }
 #press {
   display: inline-flex;
+  margin-bottom: 20px;
 }
 #press a {
   border: 5px #ccc solid;
