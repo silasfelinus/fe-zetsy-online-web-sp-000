@@ -40,7 +40,7 @@ p {
 }
 #feature {
   border: 10px solid grey;
-  display: flex;
+  display: inline;
 }
 footer {
   font-size: 80%;
