@@ -35,11 +35,14 @@ p {
   	margin: 0 0 20px 0;
     color: grey;
 }
-.press a {
-  border: 1px solid grey;
+#press {
+
   display: inline-block;
 }
-.press:hover {
+#press a {
+    border: 1px solid grey;
+}
+#press a:hover {
   border: 2px solid grey;
   display: inline-block;
 }
