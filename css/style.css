@@ -38,7 +38,7 @@ p {
   border: 1px solid grey;
   display: inline-block;
 }
-.feature {
+#feature {
   border: 1px solid grey;
 }
 footer {
