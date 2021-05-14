@@ -35,6 +35,7 @@ p {
 }
 .press {
   border: 10px solid black;
+  display: inline-block;
 }
 footer {
   font-size: 80%;
