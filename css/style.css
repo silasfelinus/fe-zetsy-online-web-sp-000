@@ -39,7 +39,7 @@ p {
   display: inline-block;
 }
 #feature {
-  border: 10px solid grey;
+  border: 2px solid grey;
   display: inline-flex;
 }
 footer {
