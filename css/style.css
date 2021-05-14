@@ -39,7 +39,8 @@ p {
   display: inline-flex;
 }
 #press a {
-    border: 1px solid grey;
+  border: 5px #ccc solid;
+padding: 1px;
 }
 #press a:hover {
   border: 2px solid grey;
