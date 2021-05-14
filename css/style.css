@@ -1,8 +1,8 @@
-h1 {
-  font-size: 5em;
-font-weight: normal;
-font-family: 'Baskerville', serif;
+@font-face {
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
 }
+
 
 /*////////// Global Styles //////////*/
 
